@@ -1,8 +1,11 @@
 body{
-  background-color=:black;
+  background-color:black;
 }
 form{
   text-weight:bold;
   color:gold;
   font-family:serif;
+}
+h1{
+  color:white;
 }
